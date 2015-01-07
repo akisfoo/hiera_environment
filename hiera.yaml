@@ -7,4 +7,4 @@
   - global
 
 :yaml:
-  :datadir: '/etc/puppet/hiera/hiera_\%{environment}/hieradata'
+  :datadir: '/etc/puppet/hiera/%{environment}/hieradata'
