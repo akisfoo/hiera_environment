@@ -1,9 +1,8 @@
 ---
 
 hiera_level: production
-motd::content: 'shieeet'
+motd::content: 'clap clap'
 ntp::servers:
   - pool.ntp.org
   - pool0.ntp.org
   - pool.de.ntp.org
-  - foo.bar.skatia
