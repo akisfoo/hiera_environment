@@ -1,3 +1,4 @@
 ---
 
 hiera_level: testing
+motd::content: 'bar'
