@@ -2,3 +2,7 @@
 
 hiera_level: testing
 motd::content: 'bar'
+ntp::servers:
+  - pool.ntp.org
+  - pool0.ntp.org
+  - pool.de.ntp.org
