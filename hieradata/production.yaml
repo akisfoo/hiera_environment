@@ -1,7 +1,7 @@
 ---
 
 hiera_level: production
-motd::content: 'foo'
+motd::content: 'bar'
 ntp::servers:
   - pool.ntp.org
   - pool0.ntp.org
